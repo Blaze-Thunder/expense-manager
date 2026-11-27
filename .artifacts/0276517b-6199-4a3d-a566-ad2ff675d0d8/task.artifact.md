@@ -1,0 +1,3 @@
+- [x] Update `MainActivity.kt` navigation logic
+- [x] Polish `SettingsScreen.kt` theme dropdown
+- [ ] Verify changes

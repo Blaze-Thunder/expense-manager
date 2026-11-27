@@ -1,0 +1,4 @@
+- `[x]` Add `CollapsibleAccountSection` reusable composable to `AccountsScreen.kt`
+- `[x]` Implement expanded state management in `AccountsListView`
+- `[x]` Integrate `CollapsibleAccountSection` for all account types
+- `[x]` Verify animations and default collapsed state

@@ -1,0 +1,2 @@
+- [ ] Fix root container and alignment in `TransactionEntryScreen.kt` <!-- id: 0 -->
+- [ ] Verify build and layout <!-- id: 1 -->

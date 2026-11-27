@@ -1,0 +1,6 @@
+- `[x]` Create `StaticTransactionFabs` in `QuickTemplatesComponents.kt`
+- `[x]` Delete `FloatingActionButtonMenu` and `FabMenuItem` from `QuickTemplatesComponents.kt`
+- `[x]` Update `HomeScreen.kt` to use `StaticTransactionFabs` and remove root `Box`
+- `[x]` Update `TransactionsScreen.kt` to use `StaticTransactionFabs` and remove root `Box`
+- `[x]` Clean up unused imports in `QuickTemplatesComponents.kt`
+- `[x]` Verify alignment and functionality on both screens
